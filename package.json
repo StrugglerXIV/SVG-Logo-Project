@@ -1,0 +1,14 @@
+{
+    "name": "expressjs-project",
+    "description": "Module 10 Challenge",
+    "version": "0.0.1",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "inquirer": "^8.2.4",
+        "prompt-sync": "^4.2.0"
+    },
+    "devDependencies": {
+        "jest": "^29.5.0"
+    }
+}
